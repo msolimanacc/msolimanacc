@@ -12,7 +12,7 @@
   
   🌱 I’m currently learning **Business Analyst, Enterprise Design Systems**
   
-  💬 Ask me about **c#, asp net core, MSSQL... or anything [here](https://github.com/msoliman01/msoliman01/issues)**
+  💬 Ask me about **c#, asp net core, MSSQL... or anything [here](https://github.com/mohamedsolimanac/mohamedsolimanac/issues)**
   
  </div>
 
