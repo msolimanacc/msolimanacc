@@ -12,7 +12,7 @@
   
   🌱 I’m currently learning **Business Analyst, Enterprise Design Systems**
   
-  💬 Ask me about **c#, asp net core, MSSQL... or anything [here](https://github.com/mohamedsolimanac/mohamedsolimanac/issues)**
+  💬 Ask me about **c#, asp net core, MSSQL... or anything [here](https://github.com/msolimanacc/msolimanacc/issues)**
   
  </div>
 
@@ -30,9 +30,3 @@
     <img src="https://skillicons.dev/icons?i=cs,postgres,mysql" />
 </dev>
 
----
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/msdevtech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" height="50" ></a>
-<a href="https://patreon.com/msdevtech" target="_blank"><img src="images/patreon.png" alt="Buy Me A Coffee" height="50" ></a>
-</div>
